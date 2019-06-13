@@ -4,7 +4,7 @@
   "description": "my first experimental blog design",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d my-blog"
+    "deploy": "gh-pages -d my_blog"
   },
   "repository": {
     "type": "git",
