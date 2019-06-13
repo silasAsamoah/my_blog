@@ -1,0 +1,16 @@
+{
+  "name": "WEBDEV",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d my_blog"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://silasAsamoah.github.io/my_blog",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
